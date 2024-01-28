@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/padavanonly/immortalwrt
+  REPO_URL: https://github.com/akumajac/immortalwrt
   REPO_BRANCH: mt7915_mtwifi
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
